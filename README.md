@@ -1,8 +1,3 @@
-It seems like I can’t do more advanced data analysis right now. Please try again later.
-
-Namun, saya tetap bisa membantu Anda membuat file README.md secara manual. Cukup copy konten berikut ke file baru bernama **`README.md`** di repository Anda:
-
-````markdown
 # Granite Summarization via Replicate API
 
 Proyek ini berfokus pada **teks summarization (perangkum teks)** menggunakan model **Granite (ibm-granite/granite-3.3-8b-instruct)** yang dijalankan melalui **Replicate API**.  
