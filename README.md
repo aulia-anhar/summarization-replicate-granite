@@ -23,10 +23,6 @@ cd granite-summarization
 
 Instal dependensi yang diperlukan:
 
-```bash
-pip install -r requirements.txt
-```
-
 Daftar library utama:
 
 * `replicate`
